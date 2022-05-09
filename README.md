@@ -10,6 +10,8 @@
 
 5 - git push --> Incorpora los cambios confirmados al proyecto global, de este modo, todos loscolaboradores del proyecto ya los tienen disponible y pueden descargarlos para incorporarlos a sus clones del proyecto en cada uno de sus equipos.
 
+FINAL.
+
 
 
 
