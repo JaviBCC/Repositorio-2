@@ -12,8 +12,8 @@
 
 FINAL.
 
+------------------------------------------------------------------------------
 
-
-
+Lo que ha ocurrido es que hemos creado un archivo de exclusiones donde incluimos la carpeta reto_2 que contiene todas las fotografias y sus tipos de archivo, para que no se inclusyan constante constantemente cada vez que realizamos cambios en el codigo.
 
 
